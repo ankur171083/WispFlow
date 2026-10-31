@@ -285,7 +285,7 @@ export default function Home() {
             WispFlow Career OS • Built with <span className="text-blue-500 font-medium">Wispr Flow</span> Voice Engine
           </div>
           <div className="text-[11px] text-slate-400">
-            Assessor Dynamic Inputs & Real-Time Skill Matching
+            Dynamic JD Benchmarking & Real-Time Skill Matching
           </div>
         </div>
       </footer>

@@ -141,7 +141,7 @@ export const SkillRadar: React.FC<SkillRadarProps> = ({
                 Company Job Descriptions
               </h2>
               <span className="text-[10px] font-mono px-2 py-0.5 rounded-full bg-blue-500/10 text-blue-500 border border-blue-500/20">
-                Assessor Inputs Enabled
+                Custom Target JDs Enabled
               </span>
             </div>
             <p className={`text-xs mt-1 ${textSecondary}`}>

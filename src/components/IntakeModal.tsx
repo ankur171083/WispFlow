@@ -172,7 +172,7 @@ export const IntakeModal: React.FC<IntakeModalProps> = ({
               <h3 className={`text-sm font-semibold tracking-tight ${textPrimary}`}>
                 Upload Resume & Target Role Intake
               </h3>
-              <p className="text-[11px] text-slate-400 font-mono">Assessor Resume Extraction Engine</p>
+              <p className="text-[11px] text-slate-400 font-mono">Automated Resume Extraction Engine</p>
             </div>
           </div>
 
@@ -232,7 +232,7 @@ export const IntakeModal: React.FC<IntakeModalProps> = ({
                 <div className="space-y-1.5">
                   <Upload className="h-6 w-6 text-blue-500 mx-auto" />
                   <div className={`text-xs font-semibold ${textPrimary}`}>Click to upload your Resume (PDF or TXT)</div>
-                  <div className="text-[11px] text-slate-400">The assessor can upload any resume to test real-time parsing</div>
+                  <div className="text-[11px] text-slate-400">Upload your resume to extract competencies and experience</div>
                 </div>
               )}
             </div>

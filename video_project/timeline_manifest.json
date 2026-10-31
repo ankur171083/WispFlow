@@ -1,0 +1,145 @@
+{
+  "total_duration": 159.62,
+  "dialogue_events": [
+    {
+      "scene_id": 1,
+      "speaker": "सूत्रधार",
+      "char_key": "narrator",
+      "text": "सुंदरपुर गाँव में रामू नाम का एक सीधा-साधा और मेहनती किसान रहता था। वह भोर होते ही अपने खेतों में पसीना बहाने निकल पड़ता था।",
+      "file": "video_project/audio\\scene_1_d_0_narrator.mp3",
+      "start": 0.0,
+      "end": 11.9,
+      "duration": 11.9
+    },
+    {
+      "scene_id": 1,
+      "speaker": "रामू",
+      "char_key": "ramu",
+      "text": "हे भगवान! इस बार अगर फसल अच्छी हो गई, तो बूढ़ी माँ का इलाज करा सकूँ और घर का कर्ज़ भी चुका दूँ।",
+      "file": "video_project/audio\\scene_1_d_1_ramu.mp3",
+      "start": 12.45,
+      "end": 21.59,
+      "duration": 9.14
+    },
+    {
+      "scene_id": 2,
+      "speaker": "सूत्रधार",
+      "char_key": "narrator",
+      "text": "लेकिन रामू की पत्नी राधा बहुत आलसी थी। जब पूरा गाँव काम में जुट जाता, तब वह अंगड़ाई लेकर सोकर उठती थी।",
+      "file": "video_project/audio\\scene_2_d_0_narrator.mp3",
+      "start": 22.94,
+      "end": 33.57,
+      "duration": 10.63
+    },
+    {
+      "scene_id": 2,
+      "speaker": "राधा",
+      "char_key": "radha",
+      "text": "उफ़! इतनी सुबह उठने की क्या जल्दी है? रामू तो खेत पर चला ही गया है, मैं थोड़ी देर और सो लेती हूँ।",
+      "file": "video_project/audio\\scene_2_d_1_radha.mp3",
+      "start": 34.12,
+      "end": 45.33,
+      "duration": 11.21
+    },
+    {
+      "scene_id": 3,
+      "speaker": "माँ जी",
+      "char_key": "mother",
+      "text": "बहू, दोपहर होने को आई। रामू सुबह से भूखा-प्यासा खेत में हल चला रहा है। कम से कम उसके लिए रोटियाँ तो बना दो।",
+      "file": "video_project/audio\\scene_3_d_0_mother.mp3",
+      "start": 46.68,
+      "end": 58.92,
+      "duration": 12.24
+    },
+    {
+      "scene_id": 3,
+      "speaker": "राधा",
+      "char_key": "radha",
+      "text": "माँ जी! आज मेरे सिर में बहुत दर्द है। मुझसे चूल्हा नहीं जलाया जाएगा। रामू खुद आकर कुछ खा लेगा।",
+      "file": "video_project/audio\\scene_3_d_1_radha.mp3",
+      "start": 59.47,
+      "end": 70.27,
+      "duration": 10.8
+    },
+    {
+      "scene_id": 4,
+      "speaker": "सूत्रधार",
+      "char_key": "narrator",
+      "text": "चिलचिलाती धूप में रामू बिना खाए-पिए जुताई करता रहा। तभी आसमान में काले बादल घिर आए और आंधी चलने लगी।",
+      "file": "video_project/audio\\scene_4_d_0_narrator.mp3",
+      "start": 71.62,
+      "end": 81.77,
+      "duration": 10.15
+    },
+    {
+      "scene_id": 4,
+      "speaker": "रामू",
+      "char_key": "ramu",
+      "text": "अगर बारिश से पहले क्यारी नहीं बांधी, तो सारी फसल बह जाएगी! पर भूख और थकान से मेरे हाथ-पैर कांप रहे हैं...",
+      "file": "video_project/audio\\scene_4_d_1_ramu.mp3",
+      "start": 82.32,
+      "end": 92.3,
+      "duration": 9.98
+    },
+    {
+      "scene_id": 5,
+      "speaker": "सूत्रधार",
+      "char_key": "narrator",
+      "text": "आंधी की गड़गड़ाहट सुनकर राधा ने बाहर झांका। रामू को लड़खड़ाते देखा, तो उसके दिल को गहरी चोट लगी।",
+      "file": "video_project/audio\\scene_5_d_0_narrator.mp3",
+      "start": 93.65,
+      "end": 103.27,
+      "duration": 9.62
+    },
+    {
+      "scene_id": 5,
+      "speaker": "राधा",
+      "char_key": "radha",
+      "text": "हाय भगवान! मैंने कितना बड़ा पाप किया! मेरे पति हमारे लिए धूप में पसीना बहा रहे हैं और मैं यहाँ बहाने बना रही थी!",
+      "file": "video_project/audio\\scene_5_d_1_radha.mp3",
+      "start": 103.82,
+      "end": 115.36,
+      "duration": 11.54
+    },
+    {
+      "scene_id": 6,
+      "speaker": "सूत्रधार",
+      "char_key": "narrator",
+      "text": "राधा तुरंत भोजन और छाछ लेकर खेत दौड़ी और रामू के साथ काम में जुट गई। दोनों ने मिलकर सारी क्यारियां सुरक्षित कर लीं।",
+      "file": "video_project/audio\\scene_6_d_0_narrator.mp3",
+      "start": 116.71,
+      "end": 127.46,
+      "duration": 10.75
+    },
+    {
+      "scene_id": 6,
+      "speaker": "रामू",
+      "char_key": "ramu",
+      "text": "राधा! आज तुम्हारे साथ और हौसले ने हमारी साल भर की मेहनत और इस परिवार को बचा लिया!",
+      "file": "video_project/audio\\scene_6_d_1_ramu.mp3",
+      "start": 128.01,
+      "end": 136.22,
+      "duration": 8.21
+    },
+    {
+      "scene_id": 6,
+      "speaker": "राधा",
+      "char_key": "radha",
+      "text": "रामू, अब मैं समझ गई हूँ। सच्चा सुख आलस में नहीं, बल्कि साथ मिलकर मेहनत करने में है।",
+      "file": "video_project/audio\\scene_6_d_2_radha.mp3",
+      "start": 136.77,
+      "end": 145.84,
+      "duration": 9.07
+    },
+    {
+      "scene_id": 6,
+      "speaker": "सूत्रधार",
+      "char_key": "narrator",
+      "text": "शिक्षा: परिवार की असली ताकत एकता और मेहनत है। जहाँ मिलकर प्रयास किया जाए, वहाँ बंजर धरती भी सोना उगलती है।",
+      "file": "video_project/audio\\scene_6_d_3_narrator.mp3",
+      "start": 146.39,
+      "end": 158.27,
+      "duration": 11.88
+    }
+  ]
+}
